@@ -1,0 +1,46 @@
+h1{
+	color: #1560E7;
+	text-align: center;
+}
+
+
+
+}
+
+div{
+	width: 100px;
+	height: 100px;
+	background-color: cornflowerblue;
+	margin: 3px;
+	display: inline-block;
+	text-align: center;
+	color: #1560E7
+	
+	
+}
+
+p.welcome{
+	color: red;
+	background-color: #010101;
+}
+
+body{
+	background-color: #010101;
+	background-image: #AB62B9;
+}
+
+#carte{
+	 width: 800px;
+	 margin: auto;
+	 background-color: #010101;
+     text-align: center;
+     align-content: center;
+}
+
+ul li{
+	  list-style-type: none;
+}
+
+
+
+	
